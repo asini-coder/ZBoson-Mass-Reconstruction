@@ -1,0 +1,4 @@
+Analysis,Center_GeV,Lower_68_GeV,Upper_68_GeV,Model,Deviance_per_dof,Minus_error_GeV,Plus_error_GeV
+Full sample,90.895754,90.860318,90.928099,Voigt + exponential,0.973,0.03543599999999003,0.03234500000000651
+Central-central,90.986807,90.93834,91.03354,Voigt + exponential,1.0035,0.04846700000000226,0.046733000000003244
+Forward-containing,90.820875,90.77555,90.86563,Voigt + exponential,0.6936,0.04532500000000539,0.04475499999999499

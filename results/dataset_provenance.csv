@@ -1,0 +1,3 @@
+Dataset,CERN record,Source URL,Filename,Size (MB),SHA-256,Download date,Momentum-scale correction applied
+SingleMu,cms-5202,https://opendata.cern.ch/record/cms-5202,Dimuon_SingleMu.csv,11.259941101074219,9901450546336067eebb18e8294ed56cb32d583193d0977d23204329ff866898,2026-11-17,None in student analysis; upstream status unknown
+DoubleMu,cms-5201,https://opendata.cern.ch/record/cms-5201,Dimuon_DoubleMu.csv,13.290252685546875,58caa45c580f8bcf4b457281c8525a56de0e0b8eb0e0b29e86a9b655a8e64d35,2026-11-17,None in student analysis; upstream status unknown

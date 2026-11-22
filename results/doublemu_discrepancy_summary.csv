@@ -1,0 +1,4 @@
+Mass difference threshold (GeV),Total flagged,Stored M in fit window,Reconstructed M in fit window,Flagged with pT inconsistency
+0.1,2445,27,27,2444
+1.0,370,11,11,369
+10.0,29,2,2,29

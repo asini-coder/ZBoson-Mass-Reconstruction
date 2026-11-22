@@ -1,0 +1,13 @@
+Variable,Description,Unit
+Run,CMS data-taking run identifier,dimensionless
+Event,Collision event identifier,dimensionless
+type1/type2,Muon reconstruction category,categorical
+E1/E2,Muon energy,GeV
+px1/px2,Momentum x-component,GeV
+py1/py2,Momentum y-component,GeV
+pz1/pz2,Momentum z-component,GeV
+pt1/pt2,Transverse momentum,GeV
+eta1/eta2,Pseudorapidity,dimensionless
+phi1/phi2,Azimuthal angle,radians
+Q1/Q2,Muon electric charge sign,units of e
+M,Supplied dimuon invariant mass,GeV

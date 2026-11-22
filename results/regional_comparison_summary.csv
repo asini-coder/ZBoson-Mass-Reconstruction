@@ -1,0 +1,2 @@
+Observed_difference_MeV,Bootstrap_mean_MeV,Bootstrap_SE_MeV,Bootstrap_95_lower_MeV,Bootstrap_95_upper_MeV,Likelihood_ratio_q,Approximate_p_value,Quality_cut_shift_MeV,Bootstrap_successes,Bootstrap_attempts
+165.932,173.537,60.154,55.469,288.778,6.6674,0.00981945,0.439,499,500

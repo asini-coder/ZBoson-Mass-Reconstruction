@@ -1,0 +1,3 @@
+Dataset,Total rows,Invalid kinematics,Opposite charge,Same charge,Other charge products,Duplicate IDs,Valid opposite-charge events,Stored M in fit window
+SingleMu,83761,0,83761,0,0,0,83761,10179
+DoubleMu,100000,0,100000,0,0,0,100000,4688

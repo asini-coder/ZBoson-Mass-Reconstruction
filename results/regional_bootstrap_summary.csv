@@ -1,0 +1,2 @@
+Observed_difference_GeV,Bootstrap_mean_GeV,Bootstrap_SE_GeV,CI_95_lower_GeV,CI_95_upper_GeV,Successful_replicates,Failed_replicates
+0.16593175818795203,0.17353692275618016,0.06015366884806503,0.055468719200478495,0.28877834029533606,499,1
